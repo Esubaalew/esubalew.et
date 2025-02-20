@@ -21,20 +21,6 @@ export function getEvents(): Event[] {
       description:
         "Took part in the Data Science Hackathon, applying advanced analytics and machine learning techniques to solve complex data challenges. Our team developed a predictive model for crop yield optimization in Ethiopian agriculture.",
     },
-    {
-      id: 3,
-      name: "AfricaTech Conference",
-      year: 2024,
-      description:
-        "Presented a keynote speech on 'The Role of AI in Solving African Challenges' at the annual AfricaTech Conference in Addis Ababa. Discussed the potential of AI in healthcare, education, and agriculture.",
-    },
-    {
-      id: 4,
-      name: "Ethiopian Developer Summit",
-      year: 2026,
-      description:
-        "Organized and led the first Ethiopian Developer Summit, bringing together tech professionals from across the country to share knowledge, network, and collaborate on innovative projects.",
-    },
   ]
 }
 
