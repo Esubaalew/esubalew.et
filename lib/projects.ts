@@ -16,7 +16,7 @@ export function getProjects(): ProjectsByCategory {
       {
         name: "AAU Robot",
         description: "AAU Robot is a Telegram bot designed to provide students of Addis Ababa University with quick access to their academic information, including grade reports and profile details. The bot ensures the privacy and security of user data while offering a convenient way for students to retrieve important information.",
-        link: "https://t.me/AAURobot",
+        link: "https://t.me/AAU_Robot",
         languages: ["Python", "Telegram API", "SQLite", "Mechanize", "PTB"],
       },
       {
