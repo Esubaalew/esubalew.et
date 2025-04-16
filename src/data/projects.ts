@@ -19,6 +19,15 @@ export const projects: Project[] = [
     url: "https://t.me/AAU_Robot",
     category: "Telegram Bots"
   },
+   {
+    id: "save-link-bot",
+    title: "Save Link Bot",
+    description: "Save Link Bot is a Telegram bot designed to download vidoes from Facebook, youtube, tiktok and instagram with ease",
+    image: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    tags: ["Python", "Telegram API", "SQLite", "Mechanize", "PTB"],
+    url: "https://t.me/SaveLink_robot",
+    category: "Telegram Bots"
+  },
   {
     id: "liyu-robot",
     title: "Liyu Robot",
