@@ -88,7 +88,7 @@ export const projects: Project[] = [
     id: "teleinsight",
     title: "TeleInsight",
     description: "TeleInsight is a powerful web application designed to analyze Telegram chat data. Our tool provides valuable insights into your conversations.",
-    image: "https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://telegram.esubalew.et/og-image.png",
     tags: ["TypeScript", "JavaScript", "React", "Node.js", "Next.js", "chart.js"],
     url: "https://telegram.esubalew.et",
     category: "Websites"
@@ -97,9 +97,9 @@ export const projects: Project[] = [
     id: "wiki-random",
     title: "Wiki Random",
     description: "TeleInsight is a powerful web application designed to randomly show article from wikipedia",
-    image: "https://wiki.esubalew.et/",
+    image: "https://wiki.esubalew.et/icon.svg",
     tags: ["TypeScript", "JavaScript", "React", "Node.js", "Next.js", "chart.js"],
-    url: "https://wiki.esubalew.et/icon.svg",
+    url: "https://wiki.esubalew.et/",
     category: "Websites"
   },
   {
