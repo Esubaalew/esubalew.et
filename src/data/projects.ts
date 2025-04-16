@@ -61,7 +61,7 @@ export const projects: Project[] = [
     id: "wereb-player",
     title: "ወረብ ‌Wereb player",
     description: "A responsive mini app that combines a curated collection of audio sermons from the Ethiopian Orthodox Tewahedo Church (EOTC).",
-    image: "https://images.unsplash.com/photo-1580795479225-c50ab8c3316d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://wereb.esubalew.et/og-wereb.png",
     tags: ["TypeScript", "React", "Node.js", "Next.js"],
     url: "https://wereb.esubalew.et",
     category: "Websites"
@@ -79,7 +79,7 @@ export const projects: Project[] = [
     id: "tadelle-dessie",
     title: "Dr. Tadelle Dessie",
     description: "A website for Dr. Tadelle Dessie, a renowned Ethiopian scientist and researcher.",
-    image: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    image: "https://www.tadelled.com/android-chrome-512x512.png",
     tags: ["TypeScript", "JavaScript", "React", "Node.js", "Next.js"],
     url: "https://tadelled.com",
     category: "Websites"
@@ -90,7 +90,16 @@ export const projects: Project[] = [
     description: "TeleInsight is a powerful web application designed to analyze Telegram chat data. Our tool provides valuable insights into your conversations.",
     image: "https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     tags: ["TypeScript", "JavaScript", "React", "Node.js", "Next.js", "chart.js"],
-    url: "https://teleinsight.esubalew.et",
+    url: "https://telegram.esubalew.et",
+    category: "Websites"
+  },
+  {
+    id: "wiki-random",
+    title: "Wiki Random",
+    description: "TeleInsight is a powerful web application designed to randomly show article from wikipedia",
+    image: "https://wiki.esubalew.et/",
+    tags: ["TypeScript", "JavaScript", "React", "Node.js", "Next.js", "chart.js"],
+    url: "https://wiki.esubalew.et/icon.svg",
     category: "Websites"
   },
   {
@@ -106,7 +115,7 @@ export const projects: Project[] = [
   {
     id: "sis-app",
     title: "SIS APP",
-    description: "Application for the School of Information Science which can be used as a guide to know the program.",
+    description: "Application for the School of Information Science, which can be used as a guide to know the program.",
     image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     tags: ["React Native", "Expo"],
     url: "https://github.com/Esubaalew/SIS-App",
