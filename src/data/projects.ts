@@ -93,7 +93,15 @@ export const projects: Project[] = [
     url: "https://teleinsight.esubalew.et",
     category: "Websites"
   },
-  
+  {
+    id: "sawewomen",
+    title: "SAWEWomen",
+    description: "AWE works with communities to create sustainable solutions for poverty, climate change, and gender equality.",
+    image: "https://media.sawewomen.org/NGO/SAWE/web/uploads/2025/04/01/sawe-logo.jpg",
+    tags: ["TypeScript", "JavaScript", "React", "Node.js", "Next.js", "Django"],
+    url: "https://sawewomen.org",
+    category: "Websites"
+  },
   // Mobile Apps
   {
     id: "sis-app",
